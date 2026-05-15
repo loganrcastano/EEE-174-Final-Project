@@ -1,3 +1,10 @@
+**NOTICE
+**
+
+If you just want to see the code look at main.c
+
+**NOTICE
+**
 EEE 174 Final Project Report 
 
 Save the Fuse 
